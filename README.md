@@ -10,12 +10,19 @@ This project simulates a real-world scenario in the pharma analytics domain, aim
 - prescriptions.csv – Medicines prescribed by doctors to patients  
 
 ## Business Questions Answered  
-- Top 5 most visited doctors  
-- Doctor-wise conversion rate (#prescriptions / #visits)  
-- Medicines that increased in usage after visits  
-- Best days of the week for prescriptions  
-- Top rep+city combinations by conversion rate  
-- Pre vs Post visit prescription comparison  
+1. Top 5 most visited doctors  
+2. Doctor-wise conversion rate (#prescriptions ÷ #visits)  
+3. Medicines that increased in usage after visits  
+4. Best days of the week for prescriptions  
+5. Top rep + city combinations by conversion rate  
+6. Pre vs Post visit prescription comparison  
+7. Top 3 reps per city by total prescriptions (using window functions)  
+8. Month-over-month prescription trend (time-series analysis)  
+9. 3-week moving average of prescriptions  
+10. Most effective rep per specialty  
+11. Average lag (in days) between rep visit and prescription date  
+
+
 
 ## SQL Concepts Used  
 - CTEs (Common Table Expressions)  
