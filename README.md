@@ -1,7 +1,7 @@
 # Doctor Visit & Prescription Behavior Analysis — Pharma SQL Case Study
 
 ## Overview  
-This project simulates a real-world scenario in the pharma analytics domain, aimed at analyzing how doctor visits by sales reps influence prescription behavior. Inspired by analytics firms like ProcDNA, ZS Associates, and IQVIA, this case is designed for roles in pharma sales force effectiveness (SFE) and marketing analytics.
+This project simulates a real-world scenario in the pharma analytics domain, aimed at analyzing how doctor visits by sales reps influence prescription behavior.  this case is designed for roles in pharma sales force effectiveness (SFE) and marketing analytics.
 
 ## Datasets  
 - doctors.csv – Contains doctor details like city and specialty  
